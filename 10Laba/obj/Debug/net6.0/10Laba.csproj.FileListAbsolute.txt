@@ -1,0 +1,17 @@
+C:\Users\Евгений\Desktop\proekt 2\10Laba\10Laba\bin\Debug\net6.0\10Laba.exe
+C:\Users\Евгений\Desktop\proekt 2\10Laba\10Laba\bin\Debug\net6.0\10Laba.deps.json
+C:\Users\Евгений\Desktop\proekt 2\10Laba\10Laba\bin\Debug\net6.0\10Laba.runtimeconfig.json
+C:\Users\Евгений\Desktop\proekt 2\10Laba\10Laba\bin\Debug\net6.0\10Laba.dll
+C:\Users\Евгений\Desktop\proekt 2\10Laba\10Laba\bin\Debug\net6.0\10Laba.pdb
+C:\Users\Евгений\Desktop\proekt 2\10Laba\10Laba\obj\Debug\net6.0\10Laba.csproj.AssemblyReference.cache
+C:\Users\Евгений\Desktop\proekt 2\10Laba\10Laba\obj\Debug\net6.0\10Laba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\Desktop\proekt 2\10Laba\10Laba\obj\Debug\net6.0\10Laba.AssemblyInfoInputs.cache
+C:\Users\Евгений\Desktop\proekt 2\10Laba\10Laba\obj\Debug\net6.0\10Laba.AssemblyInfo.cs
+C:\Users\Евгений\Desktop\proekt 2\10Laba\10Laba\obj\Debug\net6.0\10Laba.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Desktop\proekt 2\10Laba\10Laba\obj\Debug\net6.0\10Laba.dll
+C:\Users\Евгений\Desktop\proekt 2\10Laba\10Laba\obj\Debug\net6.0\refint\10Laba.dll
+C:\Users\Евгений\Desktop\proekt 2\10Laba\10Laba\obj\Debug\net6.0\10Laba.pdb
+C:\Users\Евгений\Desktop\proekt 2\10Laba\10Laba\obj\Debug\net6.0\10Laba.genruntimeconfig.cache
+C:\Users\Евгений\Desktop\proekt 2\10Laba\10Laba\obj\Debug\net6.0\ref\10Laba.dll
+C:\Users\Евгений\Desktop\proekt 2\10Laba\10Laba\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Евгений\Desktop\proekt 2\10Laba\10Laba\obj\Debug\net6.0\10Laba.csproj.CopyComplete
